@@ -17,14 +17,13 @@ import Navbar from 'react-bootstrap/Navbar'
 import Link from 'next/link';
 
 import $ from 'jquery';
-import { findDOMNode } from 'react-dom';
+
 
 
 
 function nextCard() {
 
-  // const card1=findDOMNode(this.ref.car)
-  // var card1=document.getElementById("resultCard1");
+  
   const card1 = $('#resultCard1');
   const card2 = $('#resultCard2');
   const card3 = $('#resultCard3');

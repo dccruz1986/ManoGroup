@@ -232,8 +232,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    height: 225px;
+    
+}
+.experticeImgHeight img{
     max-width: 300px;
-    max-height: 250px;
+    max-height: 225px;
 }
 
 /* implementationcards */
