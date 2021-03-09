@@ -1,0 +1,11 @@
+<svg id="icon_3b" data-name="icon 3b" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Vector" class="cls-1" d="M1175,3466v36h36v-23.27l-5.91,5.9v11.46h-24.18v-24.18h11.45l5.91-5.91H1175Zm30.9,0.45-13.03,13.03-4.65-4.65-4.77,4.77,9.42,9.43,4.78-4.78,13.02-13.02-4.77-4.78h0Z" transform="translate(-1175 -3466)"/>
+</svg>
