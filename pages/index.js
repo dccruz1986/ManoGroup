@@ -23,7 +23,7 @@ import $ from 'jquery';
 
 function nextCard() {
 
-  
+
   const card1 = $('#resultCard1');
   const card2 = $('#resultCard2');
   const card3 = $('#resultCard3');
@@ -452,23 +452,24 @@ export default function Home() {
             </Col>
           </Row>
           <Container fluid className="position-relative">
-            {/* <div className={stylesown.implementationsArrowContainerHorizontal}
-              
+            <div className={stylesown.implementationsArrowContainerHorizontal}
+              className="d-none d-xs-none d-sm-none d-lg-block"
             >
-              
-                <img src="/img/implementationArrow.svg" className={stylesown.implementationsArrowHorizontal} ></img>
-                <hr className={stylesown.implementationsArrowLineHorizontal} />
-                <img src="/img/implementationArrowCircle.png" className={stylesown.implementationsArrowCircle1Horizontal}></img>
-              
+
+              <img src="/img/implementationArrow.svg" className={stylesown.implementationsArrowHorizontal} ></img>
+
+              <hr className={stylesown.implementationsArrowLineHorizontal} />
+              <img src="/img/implementationArrowCircle.png" className={stylesown.implementationsArrowCircle1Horizontal}></img>
+
             </div>
             <div className={stylesown.implementationsArrowContainerVertical}
-                
+                  className="d-none d-xs-block d-sm-block d-lg-none"
             >
               <img src="/img/implementationArrowAbajo.svg" className={stylesown.implementationsArrowVertical} ></img>
               <div className={stylesown.implementationsArrowLineVertical} ></div>
               <img src="/img/implementationArrowCircle.png" className={stylesown.implementationsArrowCircle1Vertical}></img>
 
-            </div> */}
+            </div>
 
 
             <Container className={stylesown.implementationcards} >

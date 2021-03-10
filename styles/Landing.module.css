@@ -285,14 +285,16 @@
 
 .implementationsArrowHorizontal {
     position: absolute;
-    right: 1%;
+    right: 1.5%;
+    top:47.1%;
     width: 22px;
     height: 22px;
 }
 
 .implementationsArrowCircle1Horizontal {
     position: absolute;
-    left: 1%;
+    left: 2%;
+    top:47.5%;
     height: 20px;
     width: 20px;
 }
@@ -300,11 +302,12 @@
 .implementationsArrowLineHorizontal {
     position: absolute;
     border-bottom: 3px solid black;
-    width: 97%;
+    width: 95%;
     top: 50%;
     margin: 0px;
     margin-left: 2%;
     padding-left: 2%;
+    padding-right: 2%;
     align-items: center;
     justify-content: center;
     opacity: 60%;
@@ -322,14 +325,14 @@
 .implementationsArrowVertical {
     position: absolute;
     top: 98%;
-    right: 1px;
+    left: 49.75%;
     width: 22px;
     height: 22px;
     }
 
 .implementationsArrowCircle1Vertical {
     position: absolute;
-    left: 1%;
+    left: 49.8%;
     height: 20px;
     width: 20px;
     bottom: 98%;
@@ -340,7 +343,7 @@
     height: 100%;
     width: 10px;
     border-right: 3px solid black;
-
+    left:50%;
     
     opacity: 60%;
     
